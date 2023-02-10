@@ -1,4 +1,6 @@
 # Cryptocurrency Trading Algorithm
+
+<div id="header" align="center"> <img src="https://i.pinimg.com/originals/06/a2/31/06a2312ada3efca32bf4161eb660cb03.gif" width="500"/></div><br>
 The prominence of Cryptocurrencies as a means of transaction and investment vehicle has seen astronomical growth in recent years - but what is it and how is it different than the traditional currencies we're used to? The currencies you are familar with and likely use on a day-to-day basis, such as the US Dollar and the Euro, are known as *fiat currencies*. They are issued by the government and there exists a central authority, such as a central bank, to regulate and govern it's use. In stark contrast, a defining feature of a *Cryptocurrency* is that there is no central regulatory authority. Instead, transactions are held in a ledger or database which is secured cryptographically. Both types of currencies have their advantages and disadvantages.
 
 While this is all interesting, the most important question you might be asking is "what's in it for me?" As an individual investor, you may find success in trading Cryptocurrencies to take home a profit - but unfortunately, that often involves a significant time investment, tracking charts and prices to determine what the next trade to make is. If that sounds appealing, then by all means, enjoy! It is certainly a viable option.
